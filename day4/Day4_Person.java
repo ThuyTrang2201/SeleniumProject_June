@@ -24,8 +24,10 @@ public class Day4_Person {
     public String getPhonenumber() {
         return phonenumber;
     }
+// update mới
 
     public void setPhonenumber(String phonenumber) {
         this.phonenumber = phonenumber;
     }
 }
+
